@@ -1,34 +1,4 @@
-# Auto Drive Car Rental
-Book online. Pick up and go.
+# Pruning Methods for Person Re-identification: A Survey
 
-Current status (4/18):
-Basic booking functionality working -- tested via Django admin panel.
-UI html templates need work.
-
-### Team 4by4
-- Manmeet Singh
-- Chinmay Vadgama
-- Aditya Wadnerkar
-
-### Tasks
-- Manmeet Singh : Backend, Deployment, AWS
-- Chinmay Vadgama : Backend, AWS, Tesing
-- Aditya Wadnerkar : Frontend, UI
-
-### [Sprint Task Sheet & Burndown Chart](https://docs.google.com/spreadsheets/d/1DH1Z07WLQ1PDeq4QQ1sFMy06S8JJzKAYJ7jU70TPEAE/edit#gid=0)
-
-
-### XP Core Values Implemented
-- Manmeet Singh - Communication
-- Chinmay Vadgama - Feedback
-- Aditya Wadnerkar - Courage
-
-### Diagrams
-
-Class Diagram
-
-![](/Documentaion/Diagram/Class_Diagram.jpg)
-
-Activity Diagram
-
-![](/Documentaion/Diagram/Activity_Diagram.jpg)
+### [Medium Article Link](https://medium.com/@adityatushar.wadnerkar/pruning-methods-for-person-re-identification-a-survey-860cf8a987cf?sk=bd06ef85f37ae7e105350426acad55dd)
+### [Slideshare Link](https://www.slideshare.net/AdityaWadnerkar1/pruning-methods-for-person-reidentification-a-survey)
