@@ -1,1 +1,1 @@
-Github repository for Deep Learning CMPE-258 class
+Github repository for Deep Learning CMPE-258 class 
